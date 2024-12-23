@@ -76,7 +76,7 @@ table {
 
 .output .display {
     color: black;  
-    font-size: 1,85rem;
+    font-size: 1.85rem; /* Corregido el punto decimal */
     text-align: right;
     width: 80%;
     height: 30px;
